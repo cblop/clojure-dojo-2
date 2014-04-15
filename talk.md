@@ -56,4 +56,5 @@ If you've already done the tutorials:
 - Based on Facebook's React library
 - React redraws the DOM using diffs
 - Modular, composable UI components
+- React: mutable, Om: Immutable
 - Om adds lazy evaluation for amazing performance
