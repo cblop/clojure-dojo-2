@@ -17,7 +17,7 @@ This month, we'll do things differently
 
 - Absolute beginners: Clojurescript tutorial for Light Table
 - Beginners: 4clojure exercises
-- Others: work through and discuss the Om tutorial
+- Others: work through and discuss the Om tutorials
 
 ---
 
@@ -39,6 +39,15 @@ This month, we'll do things differently
 
 - We'll be working through the [Om tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial).
 - It's still a little experimental, so expect things to break!
+
+---
+
+# Advanced
+
+If you've already done the tutorials:
+
+- Try making something!
+- Take a look at the [TodoMVC](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om) for inspiration
 
 ---
 
