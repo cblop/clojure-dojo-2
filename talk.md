@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-      <link rel="stylesheet" type="text/css" href="css/style.css"/>
-  </head>
-  <body>
-    <textarea id="source">
-
-
 class: center, middle, inverse
 layout: true
 
@@ -59,20 +48,3 @@ This month, we'll do things differently
 - React redraws the DOM using diffs
 - Modular, composable UI components
 - Om adds lazy evaluation for amazing performance
-
-
-    </textarea>
-      <script src="js/remark-0.6.0.min.js" type="text/javascript">
-    </script>
-      <script type="text/javascript">
-      var hljs = remark.highlighter.engine;
-    </script>
-      <script src="js/remark.language.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      var slideshow = remark.create({
-          highlightStyle: 'monokai',
-          highlightLanguage: 'clojure'
-        }) ;
-    </script>
-  </body>
-</html>
